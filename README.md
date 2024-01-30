@@ -7,11 +7,11 @@ This is a Command Line Interface (CLI) quiz application written in Go. The appli
 
 ## Features
 
-Load quiz questions from a CSV file.
-Set a time limit for answering each question.
-Display questions and options to the user.
-Record and display the user's score at the end of the quiz.
-Support for various question types (e.g., multiple-choice, true/false).
+- Load quiz questions from a CSV file.
+- Set a time limit for answering the quiz.
+- Display questions and options to the user.
+- Record and display the user's score at the end of the quiz.
+- Support for various question types (e.g., multiple-choice, true/false).
 
 
 ## Installation
